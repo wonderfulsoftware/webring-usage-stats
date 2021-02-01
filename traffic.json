@@ -1,7 +1,7 @@
-{ "2021-01-26": { "total":   128,    "ring":    32,    "external":    96 }
-, "2021-01-27": { "total":    98,    "ring":    31,    "external":    67 }
+{ "2021-01-27": { "total":    98,    "ring":    31,    "external":    67 }
 , "2021-01-28": { "total":    82,    "ring":    16,    "external":    66 }
 , "2021-01-29": { "total":    36,    "ring":     8,    "external":    28 }
 , "2021-01-30": { "total":    57,    "ring":     5,    "external":    52 }
-, "2021-01-31": { "total":    19,    "ring":    12,    "external":     7 }
+, "2021-01-31": { "total":    24,    "ring":    15,    "external":     9 }
+, "2021-02-01": { "total":     3,    "ring":     1,    "external":     2 }
 }
