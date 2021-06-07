@@ -1,7 +1,7 @@
-{ "2021-06-01": { "total":     6,    "ring":     3,    "external":     3 }
-, "2021-06-02": { "total":     9,    "ring":     3,    "external":     6 }
+{ "2021-06-02": { "total":     9,    "ring":     3,    "external":     6 }
 , "2021-06-03": { "total":     8,    "ring":     5,    "external":     3 }
 , "2021-06-04": { "total":    24,    "ring":     4,    "external":    20 }
 , "2021-06-05": { "total":    17,    "ring":    11,    "external":     6 }
 , "2021-06-06": { "total":    13,    "ring":     7,    "external":     6 }
+, "2021-06-07": { "total":     0,    "ring":     0,    "external":     0 }
 }
