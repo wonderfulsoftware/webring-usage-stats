@@ -1,7 +1,7 @@
-{ "2021-10-07": { "total":     5,    "ring":     2,    "external":     3,    "next":     0 }
-, "2021-10-08": { "total":     7,    "ring":     3,    "external":     4,    "next":     0 }
+{ "2021-10-08": { "total":     7,    "ring":     3,    "external":     4,    "next":     0 }
 , "2021-10-09": { "total":     1,    "ring":     0,    "external":     1,    "next":     0 }
 , "2021-10-10": { "total":     2,    "ring":     2,    "external":     0,    "next":     0 }
 , "2021-10-11": { "total":    20,    "ring":    10,    "external":    10,    "next":     0 }
 , "2021-10-12": { "total":     3,    "ring":     2,    "external":     1,    "next":     0 }
+, "2021-10-13": { "total":     0,    "ring":     0,    "external":     0,    "next":     0 }
 }
