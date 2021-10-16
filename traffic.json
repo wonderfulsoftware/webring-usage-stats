@@ -3,5 +3,5 @@
 , "2021-10-13": { "total":     5,    "ring":     2,    "external":     3,    "next":     0 }
 , "2021-10-14": { "total":    15,    "ring":    12,    "external":     3,    "next":     0 }
 , "2021-10-15": { "total":    48,    "ring":    33,    "external":    15,    "next":     4 }
-, "2021-10-16": { "total":     0,    "ring":     0,    "external":     0,    "next":     0 }
+, "2021-10-16": { "total":     1,    "ring":     1,    "external":     0,    "next":     0 }
 }
