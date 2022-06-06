@@ -3,5 +3,5 @@
 , "2022-06-03": { "total":    14,    "ring":     8,    "external":     6,    "next":     1 }
 , "2022-06-04": { "total":    11,    "ring":     7,    "external":     4,    "next":     0 }
 , "2022-06-05": { "total":     6,    "ring":     3,    "external":     3,    "next":     0 }
-, "2022-06-06": { "total":    11,    "ring":     1,    "external":    10,    "next":     0 }
+, "2022-06-06": { "total":    12,    "ring":     2,    "external":    10,    "next":     0 }
 }
