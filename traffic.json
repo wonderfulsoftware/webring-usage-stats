@@ -3,5 +3,5 @@
 , "2022-10-14": { "total":     4,    "ring":     3,    "external":     1,    "next":     1 }
 , "2022-10-15": { "total":    14,    "ring":     8,    "external":     6,    "next":     3 }
 , "2022-10-16": { "total":    13,    "ring":    11,    "external":     2,    "next":     2 }
-, "2022-10-17": { "total":    16,    "ring":    10,    "external":     6,    "next":     0 }
+, "2022-10-17": { "total":    20,    "ring":    12,    "external":     8,    "next":     0 }
 }
