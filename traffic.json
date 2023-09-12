@@ -3,5 +3,5 @@
 , "2023-09-09": { "total":    11,    "ring":     5,    "external":     6,    "next":     1 }
 , "2023-09-10": { "total":     9,    "ring":     3,    "external":     6,    "next":     2 }
 , "2023-09-11": { "total":    14,    "ring":     3,    "external":    11,    "next":     2 }
-, "2023-09-12": { "total":    12,    "ring":     3,    "external":     9,    "next":     0 }
+, "2023-09-12": { "total":    16,    "ring":     5,    "external":    11,    "next":     0 }
 }
