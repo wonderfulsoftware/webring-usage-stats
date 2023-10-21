@@ -1,7 +1,7 @@
-{ "2023-10-15": { "total":    16,    "ring":     6,    "external":    10,    "next":     1 }
-, "2023-10-16": { "total":     3,    "ring":     3,    "external":     0,    "next":     2 }
+{ "2023-10-16": { "total":     3,    "ring":     3,    "external":     0,    "next":     2 }
 , "2023-10-17": { "total":     8,    "ring":     3,    "external":     5,    "next":     2 }
 , "2023-10-18": { "total":     0,    "ring":     0,    "external":     0,    "next":     0 }
 , "2023-10-19": { "total":    28,    "ring":     4,    "external":    24,    "next":     2 }
 , "2023-10-20": { "total":    10,    "ring":     6,    "external":     4,    "next":     4 }
+, "2023-10-21": { "total":     0,    "ring":     0,    "external":     0,    "next":     0 }
 }
