@@ -3,5 +3,5 @@
 , "2023-11-30": { "total":     7,    "ring":     5,    "external":     2,    "next":     0 }
 , "2023-12-01": { "total":    18,    "ring":     7,    "external":    11,    "next":     0 }
 , "2023-12-02": { "total":     7,    "ring":     2,    "external":     5,    "next":     1 }
-, "2023-12-03": { "total":     0,    "ring":     0,    "external":     0,    "next":     0 }
+, "2023-12-03": { "total":     4,    "ring":     0,    "external":     4,    "next":     0 }
 }
