@@ -1,7 +1,7 @@
-{ "2024-01-27": { "total":    29,    "ring":     9,    "external":    20,    "next":     0 }
-, "2024-01-28": { "total":     3,    "ring":     0,    "external":     3,    "next":     0 }
+{ "2024-01-28": { "total":     3,    "ring":     0,    "external":     3,    "next":     0 }
 , "2024-01-29": { "total":    15,    "ring":     5,    "external":    10,    "next":     0 }
 , "2024-01-30": { "total":    14,    "ring":     5,    "external":     9,    "next":     1 }
 , "2024-01-31": { "total":     7,    "ring":     1,    "external":     6,    "next":     0 }
 , "2024-02-01": { "total":    16,    "ring":     5,    "external":    11,    "next":     0 }
+, "2024-02-02": { "total":     0,    "ring":     0,    "external":     0,    "next":     0 }
 }
