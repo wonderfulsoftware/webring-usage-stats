@@ -3,5 +3,5 @@
 , "2024-07-05": { "total":    10,    "ring":     7,    "external":     3,    "next":     1 }
 , "2024-07-06": { "total":    23,    "ring":     7,    "external":    16,    "next":     0 }
 , "2024-07-07": { "total":    33,    "ring":    13,    "external":    20,    "next":     0 }
-, "2024-07-08": { "total":     0,    "ring":     0,    "external":     0,    "next":     0 }
+, "2024-07-08": { "total":     1,    "ring":     0,    "external":     1,    "next":     0 }
 }
