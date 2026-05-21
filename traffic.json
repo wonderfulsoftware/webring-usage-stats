@@ -3,5 +3,5 @@
 , "2026-05-18": { "total":    10,    "ring":     2,    "external":     8,    "next":     0 }
 , "2026-05-19": { "total":    42,    "ring":    24,    "external":    18,    "next":     6 }
 , "2026-05-20": { "total":     6,    "ring":     4,    "external":     2,    "next":     0 }
-, "2026-05-21": { "total":     0,    "ring":     0,    "external":     0,    "next":     0 }
+, "2026-05-21": { "total":     2,    "ring":     2,    "external":     0,    "next":     0 }
 }
